@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adithia73
-- 👀 I’m interested in data Analysis
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Advanced Python 
+- 👀 I’m interested in data Science & AI
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Data Science Projects
 
 
 <!---
